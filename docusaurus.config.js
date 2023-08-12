@@ -135,6 +135,10 @@ const config = {
                 href: 'https://github.com/RushGet/Shuttle',
               },
               {
+                label: 'TurboHub',
+                href: 'https://github.com/RushGet/TurboHub',
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/RushGet',
               },
