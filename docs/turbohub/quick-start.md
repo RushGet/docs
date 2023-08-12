@@ -158,3 +158,7 @@ Azure Static Web Apps 服务提供的免费额度为 100GB/月，如果您的下
 您可以在 TurboHub 的 GitHub 仓库中，提交 Issue，我们会尽快回复您。
 
 [https://github.com/RushGet/TurboHub/issues](https://github.com/RushGet/TurboHub/issues)
+
+您也可以通过以下方式联系我们：
+
+- QQ 群：[610394020](https://jq.qq.com/?_wv=1027&k=AIyL6bLE)
